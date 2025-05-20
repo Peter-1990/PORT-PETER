@@ -23,13 +23,13 @@ const projects = [
     },
     {
         id: 3,
-        title: "SaaS Landing Page",
+        title: "Hotel Booking Website",
         description:
-            "A beautiful landing page app using React and Tailwind.",
+            "A Website created for booking various types of rooms.",
         image: "/projects/project3.png",
         tags: ["React", "TailwindCSS", "Supabase"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://quick-stay-app.vercel.app",
+        githubUrl: "https://github.com/Peter-1990/Quick-stay.git",
     },
 ];
 
